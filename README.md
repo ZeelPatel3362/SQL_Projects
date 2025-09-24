@@ -1,1 +1,2 @@
 # SQL_Projects
+The sql_projects repository covers foundational SQL concepts including creating tables, inserting, selecting, altering, updating, and deleting data. It also introduces constraints like PRIMARY KEY, UNIQUE, and NOT NULL, and explains query tools like AS , WHERE , LIKE , TRIM , DISTINCT , GROUP BY , HAVING , INNER JOIN , LEFT JOIN, RIGHT JOIN , REGEX , UNION , UNION ALL , SUBQUERY , AGGRIGATE FUNCTIONS. 
